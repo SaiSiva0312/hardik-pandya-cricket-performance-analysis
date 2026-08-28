@@ -6,7 +6,8 @@ opponents.
 
 ## 📊 Dashboard Preview
 
-![Hardik Pandya Dashboard](Screenshots/dashboard.png)
+<img width="1484" height="800" alt="Dashboard" src="https://github.com/user-attachments/assets/c79db78f-11ec-44b3-921e-1fc06a720331" />
+
 
 ---
 
@@ -85,7 +86,8 @@ Relationship:
 
 `One-to-Many`
 
-![Data Model](Screenshots/data-model.png)
+<img width="1169" height="781" alt="Data-Model" src="https://github.com/user-attachments/assets/aaa69860-881c-4b7a-a5ee-e3c9861ee9de" />
+
 
 ---
 
