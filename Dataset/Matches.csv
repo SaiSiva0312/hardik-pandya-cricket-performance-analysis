@@ -1,0 +1,243 @@
+﻿Match_ID,Date,Year,Format,Opponent,Venue,City,Result,Margin,Hardik_Batted,Hardik_Bowled,Hardik_Runs,Hardik_Wickets,Event,Match_Number,Data_Source
+895817,2016-01-26,2016,T20I,Australia,Adelaide Oval,,Win,37 runs,False,True,0,2,India in Australia T20I Series,1.0,Raw JSON
+895819,2016-01-29,2016,T20I,Australia,Melbourne Cricket Ground,,Win,27 runs,False,True,0,1,India in Australia T20I Series,2.0,Raw JSON
+895821,2016-01-31,2016,T20I,Australia,Sydney Cricket Ground,,Win,7 wickets,False,True,0,0,India in Australia T20I Series,3.0,Raw JSON
+963697,2016-02-09,2016,T20I,Sri Lanka,Maharashtra Cricket Association Stadium,Pune,Loss,5 wickets,True,True,2,0,Sri Lanka in India T20I Series,1.0,Raw JSON
+963699,2016-02-12,2016,T20I,Sri Lanka,JSCA International Stadium Complex,Ranchi,Win,69 runs,True,True,27,0,Sri Lanka in India T20I Series,2.0,Raw JSON
+963701,2016-02-14,2016,T20I,Sri Lanka,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Win,9 wickets,False,True,0,0,Sri Lanka in India T20I Series,3.0,Raw JSON
+966745,2016-02-24,2016,T20I,Bangladesh,Shere Bangla National Stadium,Dhaka,Win,45 runs,True,True,31,1,Asia Cup,1.0,Raw JSON
+966751,2016-02-27,2016,T20I,Pakistan,Shere Bangla National Stadium,Mirpur,Win,5 wickets,True,True,0,3,Asia Cup,4.0,Raw JSON
+966757,2016-03-01,2016,T20I,Sri Lanka,Shere Bangla National Stadium,Mirpur,Win,5 wickets,True,True,2,2,Asia Cup,7.0,Raw JSON
+966761,2016-03-03,2016,T20I,United Arab Emirates,Shere Bangla National Stadium,Mirpur,Win,9 wickets,False,True,0,1,Asia Cup,9.0,Raw JSON
+966765,2016-03-06,2016,T20I,Bangladesh,Shere Bangla National Stadium,Mirpur,Win,8 wickets,False,True,0,0,Asia Cup,,Raw JSON
+951329,2016-03-15,2016,T20I,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Loss,47 runs,True,True,1,0,World T20,13.0,Raw JSON
+951341,2016-03-19,2016,T20I,Pakistan,Eden Gardens,Kolkata,Win,6 wickets,False,True,0,1,World T20,19.0,Raw JSON
+951353,2016-03-23,2016,T20I,Bangladesh,M Chinnaswamy Stadium,Bangalore,Win,1 runs,True,True,15,2,World T20,25.0,Raw JSON
+951363,2016-03-27,2016,T20I,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Win,6 wickets,False,True,0,2,World T20,31.0,Raw JSON
+951371,2016-03-31,2016,T20I,West Indies,Wankhede Stadium,Mumbai,Loss,7 wickets,False,True,0,0,World T20,,Raw JSON
+1030219,2016-10-16,2016,ODI,New Zealand,Himachal Pradesh Cricket Association Stadium,Dharmasala,Win,6 wickets,False,True,0,3,New Zealand in India ODI Series,1.0,Raw JSON
+1030221,2016-10-20,2016,ODI,New Zealand,Feroz Shah Kotla,Delhi,Loss,6 runs,True,True,36,0,New Zealand in India ODI Series,2.0,Raw JSON
+1030223,2016-10-23,2016,ODI,New Zealand,"Punjab Cricket Association Stadium, Mohali",Chandigarh,Win,7 wickets,False,True,0,0,New Zealand in India ODI Series,3.0,Raw JSON
+1030225,2016-10-26,2016,ODI,New Zealand,JSCA International Stadium Complex,Ranchi,Loss,19 runs,True,True,9,1,New Zealand in India ODI Series,4.0,Raw JSON
+1034819,2017-01-15,2017,ODI,England,Maharashtra Cricket Association Stadium,Pune,Win,3 wickets,True,True,40,2,England in India ODI Series,1.0,Raw JSON
+1034821,2017-01-19,2017,ODI,England,Barabati Stadium,Cuttack,Win,15 runs,True,True,19,0,England in India ODI Series,2.0,Raw JSON
+1034823,2017-01-22,2017,ODI,England,Eden Gardens,Kolkata,Loss,5 runs,True,True,56,3,England in India ODI Series,3.0,Raw JSON
+1034825,2017-01-26,2017,T20I,England,Green Park,Kanpur,Loss,7 wickets,True,True,9,0,England in India T20I Series,1.0,Raw JSON
+1034827,2017-01-29,2017,T20I,England,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Win,5 runs,True,False,2,0,England in India T20I Series,2.0,Raw JSON
+1034829,2017-02-01,2017,T20I,England,M Chinnaswamy Stadium,Bangalore,Win,75 runs,True,True,11,0,England in India T20I Series,3.0,Raw JSON
+1022353,2017-06-04,2017,ODI,Pakistan,Edgbaston,Birmingham,Win,124 runs,True,True,20,2,ICC Champions Trophy,4.0,Raw JSON
+1022361,2017-06-08,2017,ODI,Sri Lanka,Kennington Oval,London,Loss,7 wickets,True,True,9,0,ICC Champions Trophy,8.0,Raw JSON
+1022367,2017-06-11,2017,ODI,South Africa,Kennington Oval,London,Win,8 wickets,False,True,0,1,ICC Champions Trophy,11.0,Raw JSON
+1022373,2017-06-15,2017,ODI,Bangladesh,Edgbaston,Birmingham,Win,9 wickets,False,True,0,0,ICC Champions Trophy,,Raw JSON
+1022375,2017-06-18,2017,ODI,Pakistan,Kennington Oval,London,Loss,180 runs,True,True,76,1,ICC Champions Trophy,,Raw JSON
+1098206,2017-06-23,2017,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,No Result,,False,False,0,0,India in West Indies ODI Series,1.0,Raw JSON
+1098207,2017-06-25,2017,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,Win,105 runs,True,True,4,0,India in West Indies ODI Series,2.0,Raw JSON
+1098208,2017-06-30,2017,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,Win,93 runs,False,True,0,2,India in West Indies ODI Series,3.0,Raw JSON
+1098209,2017-07-02,2017,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,Loss,11 runs,True,True,20,3,India in West Indies ODI Series,4.0,Raw JSON
+1098210,2017-07-06,2017,ODI,West Indies,"Sabina Park, Kingston",Jamaica,Win,8 wickets,False,True,0,1,India in West Indies ODI Series,5.0,Raw JSON
+1109602,2017-07-26,2017,Test,Sri Lanka,Galle International Stadium,,Win,304 runs,True,True,50,1,India tour of Sri Lanka,1.0,Raw JSON
+1109603,2017-08-03,2017,Test,Sri Lanka,Sinhalese Sports Club Ground,Colombo,Win,53 runs,True,True,20,2,India tour of Sri Lanka,2.0,Raw JSON
+1109604,2017-08-12,2017,Test,Sri Lanka,Pallekele International Cricket Stadium,,Win,171 runs,True,True,108,1,India tour of Sri Lanka,3.0,Raw JSON
+1109605,2017-08-20,2017,ODI,Sri Lanka,Rangiri Dambulla International Stadium,,Win,9 wickets,False,True,0,0,India tour of Sri Lanka,1.0,Raw JSON
+1109606,2017-08-24,2017,ODI,Sri Lanka,Pallekele International Cricket Stadium,,Win,3 wickets,True,True,0,1,India tour of Sri Lanka,2.0,Raw JSON
+1109607,2017-08-27,2017,ODI,Sri Lanka,Pallekele International Cricket Stadium,,Win,6 wickets,False,True,0,1,India tour of Sri Lanka,3.0,Raw JSON
+1109608,2017-08-31,2017,ODI,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,Win,168 runs,True,True,19,2,India tour of Sri Lanka,4.0,Raw JSON
+1119496,2017-09-17,2017,ODI,Australia,"MA Chidambaram Stadium, Chepauk",Chennai,Win,26 runs,True,True,83,2,Australia tour of India,1.0,Raw JSON
+1119497,2017-09-21,2017,ODI,Australia,Eden Gardens,Kolkata,Win,50 runs,True,True,20,2,Australia tour of India,2.0,Raw JSON
+1119498,2017-09-24,2017,ODI,Australia,Holkar Cricket Stadium,Indore,Win,5 wickets,True,True,78,1,Australia tour of India,3.0,Raw JSON
+1119499,2017-09-28,2017,ODI,Australia,M.Chinnaswamy Stadium,Bengaluru,Loss,21 runs,True,True,41,0,Australia tour of India,4.0,Raw JSON
+1119500,2017-10-01,2017,ODI,Australia,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,Win,7 wickets,False,True,0,1,Australia tour of India,5.0,Raw JSON
+1119501,2017-10-07,2017,T20I,Australia,JSCA International Stadium Complex,Ranchi,Win,9 wickets,False,True,0,1,Australia tour of India,1.0,Raw JSON
+1119502,2017-10-10,2017,T20I,Australia,Barsapara Cricket Stadium,Guwahati,Loss,8 wickets,True,True,25,0,Australia tour of India,2.0,Raw JSON
+1120090,2017-10-22,2017,ODI,New Zealand,Wankhede Stadium,Mumbai,Loss,6 wickets,True,True,16,1,New Zealand tour of India,1.0,Raw JSON
+1120091,2017-10-25,2017,ODI,New Zealand,Maharashtra Cricket Association Stadium,Pune,Win,6 wickets,True,True,30,1,New Zealand tour of India,2.0,Raw JSON
+1120092,2017-10-29,2017,ODI,New Zealand,Green Park,Kanpur,Win,6 runs,True,True,8,0,New Zealand tour of India,3.0,Raw JSON
+1120093,2017-11-01,2017,T20I,New Zealand,Arun Jaitley Stadium,Delhi,Win,53 runs,True,True,0,1,New Zealand tour of India,1.0,Raw JSON
+1120094,2017-11-04,2017,T20I,New Zealand,Saurashtra Cricket Association Stadium,Rajkot,Loss,40 runs,True,True,1,0,New Zealand tour of India,2.0,Raw JSON
+1120095,2017-11-07,2017,T20I,New Zealand,Greenfield International Stadium,Thiruvananthapuram,Win,6 runs,True,True,14,0,New Zealand tour of India,3.0,Raw JSON
+1122726,2017-12-10,2017,ODI,Sri Lanka,Himachal Pradesh Cricket Association Stadium,Dharamsala,Loss,7 wickets,True,True,10,1,Sri Lanka tour of India,1.0,Raw JSON
+1122727,2017-12-13,2017,ODI,Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Win,141 runs,True,True,8,1,Sri Lanka tour of India,2.0,Raw JSON
+1122728,2017-12-17,2017,ODI,Sri Lanka,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,Win,8 wickets,False,True,0,2,Sri Lanka tour of India,3.0,Raw JSON
+1122729,2017-12-20,2017,T20I,Sri Lanka,Barabati Stadium,Cuttack,Win,93 runs,False,True,0,3,Sri Lanka tour of India,1.0,Raw JSON
+1122730,2017-12-22,2017,T20I,Sri Lanka,Holkar Cricket Stadium,Indore,Win,88 runs,True,True,10,1,Sri Lanka tour of India,2.0,Raw JSON
+1122731,2017-12-24,2017,T20I,Sri Lanka,Wankhede Stadium,Mumbai,Win,5 wickets,True,True,4,2,Sri Lanka tour of India,3.0,Raw JSON
+1122276,2018-01-05,2018,Test,South Africa,Newlands,Cape Town,Loss,72 runs,True,True,94,3,India tour of South Africa,1.0,Raw JSON
+1122277,2018-01-13,2018,Test,South Africa,SuperSport Park,Centurion,Loss,135 runs,True,True,21,0,India tour of South Africa,2.0,Raw JSON
+1122278,2018-01-24,2018,Test,South Africa,The Wanderers Stadium,Johannesburg,Win,63 runs,True,True,4,0,India tour of South Africa,3.0,Raw JSON
+1122279,2018-02-01,2018,ODI,South Africa,Kingsmead,Durban,Win,6 wickets,True,True,3,0,India tour of South Africa,1.0,Raw JSON
+1122280,2018-02-04,2018,ODI,South Africa,SuperSport Park,Centurion,Win,9 wickets,False,True,0,0,India tour of South Africa,2.0,Raw JSON
+1122281,2018-02-07,2018,ODI,South Africa,Newlands,Cape Town,Win,124 runs,True,True,14,0,India tour of South Africa,3.0,Raw JSON
+1122282,2018-02-10,2018,ODI,South Africa,The Wanderers Stadium,Johannesburg,Loss,5 wickets,True,True,9,1,India tour of South Africa,4.0,Raw JSON
+1122283,2018-02-13,2018,ODI,South Africa,St George's Park,Port Elizabeth,Win,73 runs,True,True,0,2,India tour of South Africa,5.0,Raw JSON
+1122284,2018-02-16,2018,ODI,South Africa,SuperSport Park,Centurion,Win,8 wickets,False,True,0,1,India tour of South Africa,6.0,Raw JSON
+1122285,2018-02-18,2018,T20I,South Africa,The Wanderers Stadium,Johannesburg,Win,28 runs,True,True,13,1,India tour of South Africa,1.0,Raw JSON
+1122286,2018-02-21,2018,T20I,South Africa,SuperSport Park,Centurion,Loss,6 wickets,False,True,0,1,India tour of South Africa,2.0,Raw JSON
+1122287,2018-02-24,2018,T20I,South Africa,Newlands,Cape Town,Win,7 runs,True,True,21,1,India tour of South Africa,3.0,Raw JSON
+EXT_1133983,2018-06-14,2018,Test,Afghanistan,"M.Chinnaswamy Stadium, Bengaluru",Bengaluru,Win,innings and 262 runs,True,True,71,0,Afghanistan tour of India,Only Test,Verified scorecard supplement
+1140992,2018-06-27,2018,T20I,Ireland,"The Village, Malahide",Dublin,Win,76 runs,True,True,6,0,India tour of Ireland and England,1.0,Raw JSON
+1140993,2018-06-29,2018,T20I,Ireland,"The Village, Malahide",Dublin,Win,143 runs,True,True,32,1,India tour of Ireland and England,2.0,Raw JSON
+1119543,2018-07-03,2018,T20I,England,Old Trafford,Manchester,Win,8 wickets,False,True,0,1,India tour of Ireland and England,1.0,Raw JSON
+1119544,2018-07-06,2018,T20I,England,Sophia Gardens,Cardiff,Loss,5 wickets,True,True,12,1,India tour of Ireland and England,2.0,Raw JSON
+1119545,2018-07-08,2018,T20I,England,County Ground,Bristol,Win,7 wickets,True,True,33,4,India tour of Ireland and England,3.0,Raw JSON
+1119546,2018-07-12,2018,ODI,England,Trent Bridge,Nottingham,Win,8 wickets,False,True,0,0,India tour of Ireland and England,1.0,Raw JSON
+1119547,2018-07-14,2018,ODI,England,Lord's,London,Loss,86 runs,True,True,21,1,India tour of Ireland and England,2.0,Raw JSON
+1119548,2018-07-17,2018,ODI,England,Headingley,Leeds,Loss,8 wickets,True,True,21,0,India tour of Ireland and England,3.0,Raw JSON
+1119549,2018-08-01,2018,Test,England,Edgbaston,Birmingham,Loss,31 runs,True,True,53,0,India tour of Ireland and England,1.0,Raw JSON
+1119550,2018-08-09,2018,Test,England,Lord's,London,Loss,159 runs,True,True,37,3,India tour of Ireland and England,2.0,Raw JSON
+1119551,2018-08-18,2018,Test,England,Trent Bridge,Nottingham,Win,203 runs,True,True,70,6,India tour of Ireland and England,3.0,Raw JSON
+1119552,2018-08-30,2018,Test,England,The Rose Bowl,Southampton,Loss,60 runs,True,True,4,1,India tour of Ireland and England,4.0,Raw JSON
+1153247,2018-09-19,2018,ODI,Pakistan,Dubai International Cricket Stadium,,Win,8 wickets,False,True,0,0,Asia Cup,5.0,Raw JSON
+1153693,2019-01-28,2019,ODI,New Zealand,Bay Oval,Mount Maunganui,Win,7 wickets,False,True,0,2,India tour of New Zealand,3.0,Raw JSON
+1153694,2019-01-31,2019,ODI,New Zealand,Seddon Park,Hamilton,Loss,8 wickets,True,True,16,0,India tour of New Zealand,4.0,Raw JSON
+1153695,2019-02-03,2019,ODI,New Zealand,Westpac Stadium,Wellington,Win,35 runs,True,True,45,2,India tour of New Zealand,5.0,Raw JSON
+1153696,2019-02-06,2019,T20I,New Zealand,Westpac Stadium,Wellington,Loss,80 runs,True,True,4,2,India tour of New Zealand,1.0,Raw JSON
+1153697,2019-02-08,2019,T20I,New Zealand,Eden Park,Auckland,Win,7 wickets,False,True,0,1,India tour of New Zealand,2.0,Raw JSON
+1153698,2019-02-10,2019,T20I,New Zealand,Seddon Park,Hamilton,Loss,4 runs,True,True,21,0,India tour of New Zealand,3.0,Raw JSON
+1144490,2019-06-05,2019,ODI,South Africa,The Rose Bowl,Southampton,Win,6 wickets,True,True,15,0,World Cup,8.0,Raw JSON
+1144496,2019-06-09,2019,ODI,Australia,Kennington Oval,London,Win,36 runs,True,True,48,0,World Cup,14.0,Raw JSON
+1144504,2019-06-16,2019,ODI,Pakistan,Old Trafford,Manchester,Win,89 runs,True,True,26,2,World Cup,22.0,Raw JSON
+EXT_2019_AFG_IND_ODI_28,2019-06-22,2019,ODI,Afghanistan,The Rose Bowl,Southampton,Win,11 runs,True,True,7,2,ICC Cricket World Cup 2019,28,Verified scorecard supplement
+1144516,2019-06-27,2019,ODI,West Indies,Old Trafford,Manchester,Win,125 runs,True,True,46,1,World Cup,34.0,Raw JSON
+1144520,2019-06-30,2019,ODI,England,Edgbaston,Birmingham,Loss,31 runs,True,True,45,0,World Cup,38.0,Raw JSON
+1144522,2019-07-02,2019,ODI,Bangladesh,Edgbaston,Birmingham,Win,28 runs,True,True,0,3,World Cup,40.0,Raw JSON
+1144526,2019-07-06,2019,ODI,Sri Lanka,Headingley,Leeds,Win,7 wickets,True,True,7,1,World Cup,44.0,Raw JSON
+1144528,2019-07-09,2019,ODI,New Zealand,Old Trafford,Manchester,Loss,18 runs,True,True,32,1,World Cup,,Raw JSON
+1187005,2019-09-18,2019,T20I,South Africa,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,Win,7 wickets,False,True,0,1,South Africa tour of India,2.0,Raw JSON
+1187006,2019-09-22,2019,T20I,South Africa,M.Chinnaswamy Stadium,Bengaluru,Loss,9 wickets,True,True,14,1,South Africa tour of India,3.0,Raw JSON
+1223955,2020-11-27,2020,ODI,Australia,Sydney Cricket Ground,,Loss,66 runs,True,False,90,0,India tour of Australia,1.0,Raw JSON
+1223956,2020-11-29,2020,ODI,Australia,Sydney Cricket Ground,,Loss,51 runs,True,True,28,1,India tour of Australia,2.0,Raw JSON
+1223957,2020-12-02,2020,ODI,Australia,Manuka Oval,Canberra,Win,13 runs,True,False,92,0,India tour of Australia,3.0,Raw JSON
+1223952,2020-12-04,2020,T20I,Australia,Manuka Oval,Canberra,Win,11 runs,True,False,16,0,India tour of Australia,1.0,Raw JSON
+1223953,2020-12-06,2020,T20I,Australia,Sydney Cricket Ground,Sydney,Win,6 wickets,True,False,42,0,India tour of Australia,2.0,Raw JSON
+1223954,2020-12-08,2020,T20I,Australia,Sydney Cricket Ground,Sydney,Loss,12 runs,True,False,20,0,India tour of Australia,3.0,Raw JSON
+1243388,2021-03-12,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,Loss,8 wickets,True,True,19,0,India v England,1.0,Raw JSON
+1243389,2021-03-14,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,Win,7 wickets,False,True,0,0,England tour of India,2.0,Raw JSON
+1243390,2021-03-16,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,Loss,8 wickets,True,True,17,0,England tour of India,3.0,Raw JSON
+1243391,2021-03-18,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,Win,8 runs,True,True,11,2,England tour of India,4.0,Raw JSON
+1243392,2021-03-20,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,Win,36 runs,True,True,39,1,England tour of India,5.0,Raw JSON
+1243393,2021-03-23,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,Win,66 runs,True,False,1,0,England tour of India,1.0,Raw JSON
+1243394,2021-03-26,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,Loss,6 wickets,True,False,35,0,England tour of India,2.0,Raw JSON
+1243395,2021-03-28,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,Win,7 runs,True,True,64,0,England tour of India,3.0,Raw JSON
+1262755,2021-07-18,2021,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Win,7 wickets,False,True,0,1,India tour of Sri Lanka,1.0,Raw JSON
+1262756,2021-07-20,2021,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Win,3 wickets,True,True,0,0,India tour of Sri Lanka,2.0,Raw JSON
+1262757,2021-07-23,2021,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Loss,3 wickets,True,True,19,1,India tour of Sri Lanka,3.0,Raw JSON
+1262758,2021-07-25,2021,T20I,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Win,38 runs,True,True,10,1,India tour of Sri Lanka,1.0,Raw JSON
+1273727,2021-10-24,2021,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,Loss,10 wickets,True,False,11,0,ICC Men's T20 World Cup,16.0,Raw JSON
+1273739,2021-10-31,2021,T20I,New Zealand,Dubai International Cricket Stadium,Dubai,Loss,8 wickets,True,True,23,0,ICC Men's T20 World Cup,28.0,Raw JSON
+EXT_2021_IND_AFG_T20I_33,2021-11-03,2021,T20I,Afghanistan,Sheikh Zayed Stadium,Abu Dhabi,Win,66 runs,True,True,35,0,ICC Men's T20 World Cup 2021/22,33,Verified scorecard supplement
+1273748,2021-11-05,2021,T20I,Scotland,Dubai International Cricket Stadium,Dubai,Win,8 wickets,False,False,0,0,ICC Men's T20 World Cup,37.0,Raw JSON
+1273753,2021-11-08,2021,T20I,Namibia,Dubai International Cricket Stadium,Dubai,Win,9 wickets,False,False,0,0,ICC Men's T20 World Cup,42.0,Raw JSON
+1278687,2022-06-09,2022,T20I,South Africa,"Arun Jaitley Stadium, Delhi",Delhi,Loss,7 wickets,True,True,31,0,South Africa tour of India,1.0,Raw JSON
+1278688,2022-06-12,2022,T20I,South Africa,"Barabati Stadium, Cuttack",Cuttack,Loss,4 wickets,True,True,9,0,South Africa tour of India,2.0,Raw JSON
+1278689,2022-06-14,2022,T20I,South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Win,48 runs,True,False,31,0,South Africa tour of India,3.0,Raw JSON
+1278690,2022-06-17,2022,T20I,South Africa,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Win,82 runs,True,True,46,0,South Africa tour of India,4.0,Raw JSON
+1278691,2022-06-19,2022,T20I,South Africa,"M Chinnaswamy Stadium, Bangalore",Bengaluru,No Result,,False,False,0,0,South Africa tour of India,5.0,Raw JSON
+1303307,2022-06-26,2022,T20I,Ireland,"The Village, Malahide, Dublin",Dublin,Win,7 wickets,True,True,24,1,India tour of Ireland,1.0,Raw JSON
+1303308,2022-06-28,2022,T20I,Ireland,"The Village, Malahide, Dublin",Dublin,Win,4 runs,True,True,13,0,India tour of Ireland,2.0,Raw JSON
+1276904,2022-07-07,2022,T20I,England,"The Rose Bowl, Southampton",Southampton,Win,50 runs,True,True,51,4,India tour of England,1.0,Raw JSON
+1276905,2022-07-09,2022,T20I,England,"Edgbaston, Birmingham",Birmingham,Win,49 runs,True,True,12,1,India tour of England,2.0,Raw JSON
+1276907,2022-07-12,2022,ODI,England,"Kennington Oval, London",London,Win,10 wickets,False,True,0,0,India tour of England,1.0,Raw JSON
+1276908,2022-07-14,2022,ODI,England,"Lord's, London",London,Loss,100 runs,True,True,29,2,India tour of England,2.0,Raw JSON
+1276909,2022-07-17,2022,ODI,England,"Old Trafford, Manchester",Manchester,Win,5 wickets,True,True,71,4,India tour of England,3.0,Raw JSON
+1317903,2022-07-29,2022,T20I,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Win,68 runs,True,True,1,0,India tour of West Indies,1.0,Raw JSON
+1317904,2022-08-01,2022,T20I,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,Loss,5 wickets,True,True,31,1,India tour of West Indies,2.0,Raw JSON
+1317905,2022-08-02,2022,T20I,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,Win,7 wickets,True,True,4,1,India tour of West Indies,3.0,Raw JSON
+1317907,2022-08-07,2022,T20I,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Win,88 runs,True,True,28,0,West Indies v India T20I Series,5.0,Raw JSON
+1327270,2022-08-28,2022,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,Win,5 wickets,True,True,33,3,Asia Cup,2.0,Raw JSON
+1327276,2022-09-04,2022,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,Loss,5 wickets,True,True,0,1,Asia Cup,8.0,Raw JSON
+1327277,2022-09-06,2022,T20I,Sri Lanka,Dubai International Cricket Stadium,Dubai,Loss,6 wickets,True,True,17,0,Asia Cup,9.0,Raw JSON
+1327503,2022-09-20,2022,T20I,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,Loss,4 wickets,True,True,71,0,Australia tour of India,1.0,Raw JSON
+1327504,2022-09-23,2022,T20I,Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Win,6 wickets,True,True,9,0,Australia tour of India,2.0,Raw JSON
+1327505,2022-09-25,2022,T20I,Australia,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Win,6 wickets,True,True,25,0,Australia tour of India,3.0,Raw JSON
+1298150,2022-10-23,2022,T20I,Pakistan,Melbourne Cricket Ground,Melbourne,Win,4 wickets,True,True,40,3,ICC Men's T20 World Cup,16.0,Raw JSON
+1298157,2022-10-27,2022,T20I,Netherlands,Sydney Cricket Ground,Sydney,Win,56 runs,False,True,0,0,ICC Men's T20 World Cup,23.0,Raw JSON
+1298164,2022-10-30,2022,T20I,South Africa,Perth Stadium,Perth,Loss,5 wickets,True,True,2,1,ICC Men's T20 World Cup,30.0,Raw JSON
+1298169,2022-11-02,2022,T20I,Bangladesh,Adelaide Oval,Adelaide,Win,5 runs,True,True,5,2,ICC Men's T20 World Cup,35.0,Raw JSON
+1298176,2022-11-06,2022,T20I,Zimbabwe,Melbourne Cricket Ground,Melbourne,Win,71 runs,True,True,18,2,ICC Men's T20 World Cup,42.0,Raw JSON
+1298178,2022-11-10,2022,T20I,England,Adelaide Oval,Adelaide,Loss,10 wickets,True,True,63,0,ICC Men's T20 World Cup,,Raw JSON
+1322276,2022-11-20,2022,T20I,New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,Win,65 runs,True,False,13,0,India tour of New Zealand,2.0,Raw JSON
+1322277,2022-11-22,2022,T20I,New Zealand,"McLean Park, Napier",Napier,Tie,,True,False,30,0,India tour of New Zealand,3.0,Raw JSON
+1348640,2023-01-03,2023,T20I,Sri Lanka,"Wankhede Stadium, Mumbai",Mumbai,Win,2 runs,True,True,29,0,Sri Lanka tour of India,1.0,Raw JSON
+1348641,2023-01-05,2023,T20I,Sri Lanka,"Maharashtra Cricket Association Stadium, Pune",Pune,Loss,16 runs,True,True,12,0,Sri Lanka tour of India,2.0,Raw JSON
+1348642,2023-01-07,2023,T20I,Sri Lanka,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Win,91 runs,True,True,4,2,Sri Lanka tour of India,3.0,Raw JSON
+1348643,2023-01-10,2023,ODI,Sri Lanka,"Barsapara Cricket Stadium, Guwahati",Guwahati,Win,67 runs,True,True,14,1,Sri Lanka tour of India,1.0,Raw JSON
+1348644,2023-01-12,2023,ODI,Sri Lanka,"Eden Gardens, Kolkata",Kolkata,Win,4 wickets,True,True,36,0,Sri Lanka tour of India,2.0,Raw JSON
+1348646,2023-01-18,2023,ODI,New Zealand,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Win,12 runs,True,True,28,1,New Zealand tour of India,1.0,Raw JSON
+1348647,2023-01-21,2023,ODI,New Zealand,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Win,8 wickets,False,True,0,2,New Zealand tour of India,2.0,Raw JSON
+1348648,2023-01-24,2023,ODI,New Zealand,"Holkar Cricket Stadium, Indore",Indore,Win,90 runs,True,True,54,1,New Zealand tour of India,3.0,Raw JSON
+1348649,2023-01-27,2023,T20I,New Zealand,"JSCA International Stadium Complex, Ranchi",Ranchi,Loss,21 runs,True,True,21,0,New Zealand tour of India,1.0,Raw JSON
+1348650,2023-01-29,2023,T20I,New Zealand,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,Win,6 wickets,True,True,15,1,New Zealand tour of India,2.0,Raw JSON
+1348651,2023-02-01,2023,T20I,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Win,168 runs,True,True,30,4,New Zealand tour of India,3.0,Raw JSON
+1348656,2023-03-17,2023,ODI,Australia,"Wankhede Stadium, Mumbai",Mumbai,Win,5 wickets,True,True,25,1,Australia tour of India,1.0,Raw JSON
+1348657,2023-03-19,2023,ODI,Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Loss,10 wickets,True,True,1,0,Australia tour of India,2.0,Raw JSON
+1348658,2023-03-22,2023,ODI,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Loss,21 runs,True,True,40,3,Australia tour of India,3.0,Raw JSON
+1381214,2023-07-27,2023,ODI,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Win,5 wickets,True,True,5,1,India tour of West Indies,1.0,Raw JSON
+1381215,2023-07-29,2023,ODI,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Loss,6 wickets,True,True,7,0,India tour of West Indies and United States of America,2.0,Raw JSON
+1381216,2023-08-01,2023,ODI,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Win,200 runs,True,True,70,0,India tour of West Indies and United States of America,3.0,Raw JSON
+1381217,2023-08-03,2023,T20I,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,Loss,4 runs,True,True,19,1,India tour of West Indies and United States of America,1.0,Raw JSON
+1381218,2023-08-06,2023,T20I,West Indies,"Providence Stadium, Guyana",Providence,Loss,2 wickets,True,True,24,3,India tour of West Indies and United States of America,2.0,Raw JSON
+1381219,2023-08-08,2023,T20I,West Indies,"Providence Stadium, Guyana",Providence,Win,7 wickets,True,True,20,0,India tour of West Indies and United States of America,3.0,Raw JSON
+1381220,2023-08-12,2023,T20I,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Win,9 wickets,False,True,0,0,India tour of West Indies and United States of America,4.0,Raw JSON
+1381221,2023-08-13,2023,T20I,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,Loss,8 wickets,True,True,14,0,India tour of West Indies and United States of America,5.0,Raw JSON
+1388394,2023-09-02,2023,ODI,Pakistan,Pallekele International Cricket Stadium,Kandy,No Result,,True,False,87,0,Asia Cup,3.0,Raw JSON
+1388398,2023-09-04,2023,ODI,Nepal,Pallekele International Cricket Stadium,Kandy,Win,10 wickets,False,True,0,1,Asia Cup,5.0,Raw JSON
+1388406,2023-09-10,2023,ODI,Pakistan,"R Premadasa Stadium, Colombo",Colombo,Win,228 runs,False,True,0,1,Asia Cup,9.0,Raw JSON
+1388407,2023-09-12,2023,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Win,41 runs,True,True,5,1,Asia Cup,10.0,Raw JSON
+1388414,2023-09-17,2023,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,Win,10 wickets,False,True,0,3,Asia Cup,,Raw JSON
+1384396,2023-10-08,2023,ODI,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Win,6 wickets,True,True,11,1,ICC Cricket World Cup,5.0,Raw JSON
+1384403,2023-10-14,2023,ODI,Pakistan,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Win,7 wickets,False,True,0,2,ICC Cricket World Cup,12.0,Raw JSON
+1384408,2023-10-19,2023,ODI,Bangladesh,"Maharashtra Cricket Association Stadium, Pune",Pune,Win,7 wickets,False,True,0,0,ICC Cricket World Cup,17.0,Raw JSON
+1415708,2024-06-05,2024,T20I,Ireland,"Nassau County International Cricket Stadium, New York",New York,Win,8 wickets,False,True,0,3,ICC Men's T20 World Cup,8.0,Raw JSON
+1415719,2024-06-09,2024,T20I,Pakistan,"Nassau County International Cricket Stadium, New York",New York,Win,6 runs,True,True,7,2,ICC Men's T20 World Cup,19.0,Raw JSON
+1415725,2024-06-12,2024,T20I,United States of America,"Nassau County International Cricket Stadium, New York",New York,Win,7 wickets,False,True,0,2,ICC Men's T20 World Cup,25.0,Raw JSON
+EXT_2024_AFG_IND_T20I_43,2024-06-20,2024,T20I,Afghanistan,Kensington Oval,Bridgetown,Win,47 runs,True,True,32,0,ICC Men's T20 World Cup 2024,43,Verified scorecard supplement
+1415747,2024-06-22,2024,T20I,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,Win,50 runs,True,True,50,1,ICC Men's T20 World Cup,47.0,Raw JSON
+1415751,2024-06-24,2024,T20I,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,Win,24 runs,True,True,27,0,ICC Men's T20 World Cup,51.0,Raw JSON
+1415754,2024-06-27,2024,T20I,England,"Providence Stadium, Guyana",Providence,Win,68 runs,True,True,23,0,ICC Men's T20 World Cup,,Raw JSON
+1415755,2024-06-29,2024,T20I,South Africa,"Kensington Oval, Bridgetown, Barbados",Bridgetown,Win,7 runs,True,True,5,3,ICC Men's T20 World Cup,,Raw JSON
+1442987,2024-07-27,2024,T20I,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Win,43 runs,True,True,9,0,India tour of Sri Lanka,1.0,Raw JSON
+1442988,2024-07-28,2024,T20I,Sri Lanka,Pallekele International Cricket Stadium,Kandy,Win,7 wickets,True,True,22,2,India tour of Sri Lanka,2.0,Raw JSON
+1439893,2024-10-06,2024,T20I,Bangladesh,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",Gwalior,Win,7 wickets,True,True,39,1,Bangladesh tour of India,1.0,Raw JSON
+1439894,2024-10-09,2024,T20I,Bangladesh,"Arun Jaitley Stadium, Delhi",Delhi,Win,86 runs,True,False,32,0,Bangladesh tour of India,2.0,Raw JSON
+1439895,2024-10-12,2024,T20I,Bangladesh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,Win,133 runs,True,True,47,0,Bangladesh tour of India,3.0,Raw JSON
+1449301,2024-11-08,2024,T20I,South Africa,"Kingsmead, Durban",Durban,Win,61 runs,True,True,2,0,India tour of South Africa,1.0,Raw JSON
+1449302,2024-11-10,2024,T20I,South Africa,"St George's Park, Gqeberha",Gqeberha,Loss,3 wickets,True,True,39,0,India tour of South Africa,2.0,Raw JSON
+1449303,2024-11-13,2024,T20I,South Africa,"SuperSport Park, Centurion",Centurion,Win,11 runs,True,True,18,1,India tour of South Africa,3.0,Raw JSON
+1449304,2024-11-15,2024,T20I,South Africa,"The Wanderers Stadium, Johannesburg",Johannesburg,Win,135 runs,False,True,0,1,India tour of South Africa,4.0,Raw JSON
+1439899,2025-01-22,2025,T20I,England,"Eden Gardens, Kolkata",Kolkata,Win,7 wickets,True,True,3,2,England tour of India,1.0,Raw JSON
+1439900,2025-01-25,2025,T20I,England,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Win,2 wickets,True,True,7,1,England tour of India,2.0,Raw JSON
+1439901,2025-01-28,2025,T20I,England,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,Loss,26 runs,True,True,40,2,England tour of India,3.0,Raw JSON
+1439902,2025-01-31,2025,T20I,England,"Maharashtra Cricket Association Stadium, Pune",Pune,Win,15 runs,True,True,53,0,England tour of India,4.0,Raw JSON
+1439903,2025-02-02,2025,T20I,England,"Wankhede Stadium, Mumbai",Mumbai,Win,150 runs,True,True,9,0,England tour of India,5.0,Raw JSON
+1439904,2025-02-06,2025,ODI,England,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Win,4 wickets,True,True,9,0,England tour of India,1.0,Raw JSON
+1439905,2025-02-09,2025,ODI,England,"Barabati Stadium, Cuttack",Cuttack,Win,4 wickets,True,True,10,1,England tour of India,2.0,Raw JSON
+1439906,2025-02-12,2025,ODI,England,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Win,142 runs,True,True,17,2,England tour of India,3.0,Raw JSON
+1466415,2025-02-20,2025,ODI,Bangladesh,Dubai International Cricket Stadium,Dubai,Win,6 wickets,False,True,0,0,ICC Champions Trophy,2.0,Raw JSON
+1466418,2025-02-23,2025,ODI,Pakistan,Dubai International Cricket Stadium,Dubai,Win,6 wickets,True,True,8,2,ICC Champions Trophy,5.0,Raw JSON
+1466425,2025-03-02,2025,ODI,New Zealand,Dubai International Cricket Stadium,Dubai,Win,44 runs,True,True,45,1,ICC Champions Trophy,12.0,Raw JSON
+1466426,2025-03-04,2025,ODI,Australia,Dubai International Cricket Stadium,Dubai,Win,4 wickets,True,True,28,1,ICC Champions Trophy,,Raw JSON
+1466428,2025-03-09,2025,ODI,New Zealand,Dubai International Cricket Stadium,Dubai,Win,4 wickets,True,True,18,0,ICC Champions Trophy,,Raw JSON
+1496921,2025-09-10,2025,T20I,United Arab Emirates,Dubai International Cricket Stadium,Dubai,Win,9 wickets,False,True,0,0,Men's T20 Asia Cup,2.0,Raw JSON
+1496925,2025-09-14,2025,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,Win,7 wickets,False,True,0,1,Men's T20 Asia Cup,6.0,Raw JSON
+1496931,2025-09-19,2025,T20I,Oman,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,Win,21 runs,True,True,1,1,Men's T20 Asia Cup,12.0,Raw JSON
+1496933,2025-09-21,2025,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,Win,6 wickets,True,True,7,1,Men's T20 Asia Cup,14.0,Raw JSON
+1496935,2025-09-24,2025,T20I,Bangladesh,Dubai International Cricket Stadium,Dubai,Win,41 runs,True,True,38,0,Men's T20 Asia Cup,16.0,Raw JSON
+1496937,2025-09-26,2025,T20I,Sri Lanka,Dubai International Cricket Stadium,Dubai,Tie,,True,True,2,1,Men's T20 Asia Cup,18.0,Raw JSON
+1479576,2025-12-09,2025,T20I,South Africa,"Barabati Stadium, Cuttack",Cuttack,Win,101 runs,True,True,59,1,South Africa tour of India,1.0,Raw JSON
+1479577,2025-12-11,2025,T20I,South Africa,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,Loss,51 runs,True,True,20,0,South Africa tour of India,2.0,Raw JSON
+1479578,2025-12-14,2025,T20I,South Africa,"Himachal Pradesh Cricket Association Stadium, Dharamsala",Dharamsala,Win,7 wickets,False,True,0,1,South Africa tour of India,3.0,Raw JSON
+1479580,2025-12-19,2025,T20I,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Win,30 runs,True,True,63,1,South Africa tour of India,5.0,Raw JSON
+1490234,2026-01-21,2026,T20I,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,Win,48 runs,True,True,25,1,New Zealand tour of India,1.0,Raw JSON
+1490235,2026-01-23,2026,T20I,New Zealand,"Shaheed Veer Narayan Singh International Stadium, Raipur",Raipur,Win,7 wickets,False,True,0,1,New Zealand tour of India,2.0,Raw JSON
+1490236,2026-01-25,2026,T20I,New Zealand,"Barsapara Cricket Stadium, Guwahati",Guwahati,Win,8 wickets,False,True,0,2,New Zealand tour of India,3.0,Raw JSON
+1490237,2026-01-28,2026,T20I,New Zealand,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,Loss,50 runs,True,False,2,0,New Zealand tour of India,4.0,Raw JSON
+1490238,2026-01-31,2026,T20I,New Zealand,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,Win,46 runs,True,True,42,0,New Zealand tour of India,5.0,Raw JSON
+1512721,2026-02-07,2026,T20I,United States of America,"Wankhede Stadium, Mumbai",Mumbai,Win,29 runs,True,True,5,0,ICC Men's T20 World Cup,3.0,Raw JSON
+1512736,2026-02-12,2026,T20I,Namibia,"Arun Jaitley Stadium, Delhi",Delhi,Win,93 runs,True,True,52,2,ICC Men's T20 World Cup,18.0,Raw JSON
+1512745,2026-02-15,2026,T20I,Pakistan,"R Premadasa Stadium, Colombo",Colombo,Win,61 runs,True,True,0,2,ICC Men's T20 World Cup,27.0,Raw JSON
+1512754,2026-02-18,2026,T20I,Netherlands,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Win,17 runs,True,True,30,1,ICC Men's T20 World Cup,36.0,Raw JSON
+1512761,2026-02-22,2026,T20I,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Loss,76 runs,True,True,18,0,ICC Men's T20 World Cup,43.0,Raw JSON
+1512766,2026-02-26,2026,T20I,Zimbabwe,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,Win,72 runs,True,True,50,0,ICC Men's T20 World Cup,48.0,Raw JSON
+1512770,2026-03-01,2026,T20I,West Indies,"Eden Gardens, Kolkata",Kolkata,Win,5 wickets,True,True,17,1,ICC Men's T20 World Cup,52.0,Raw JSON
+1512772,2026-03-05,2026,T20I,England,"Wankhede Stadium, Mumbai",Mumbai,Win,7 runs,True,True,27,2,ICC Men's T20 World Cup,,Raw JSON
+1512773,2026-03-08,2026,T20I,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,Win,96 runs,True,True,18,1,ICC Men's T20 World Cup,,Raw JSON

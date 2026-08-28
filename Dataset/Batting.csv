@@ -1,0 +1,196 @@
+﻿Match_ID,Date,Year,Format,Opponent,Venue,City,Innings_No,Runs,Balls_Faced,Fours,Sixes,Strike_Rate,Dismissed,Dismissal,Data_Source
+963697,2016-02-09,2016,T20I,Sri Lanka,Maharashtra Cricket Association Stadium,Pune,1,2,6,0,0,33.33,1,lbw,Raw JSON
+963699,2016-02-12,2016,T20I,Sri Lanka,JSCA International Stadium Complex,Ranchi,1,27,12,1,2,225.0,1,caught,Raw JSON
+966745,2016-02-24,2016,T20I,Bangladesh,Shere Bangla National Stadium,Dhaka,1,31,18,4,1,172.22,1,caught,Raw JSON
+966751,2016-02-27,2016,T20I,Pakistan,Shere Bangla National Stadium,Mirpur,1,0,2,0,0,0.0,1,caught,Raw JSON
+966757,2016-03-01,2016,T20I,Sri Lanka,Shere Bangla National Stadium,Mirpur,1,2,4,0,0,50.0,1,bowled,Raw JSON
+951329,2016-03-15,2016,T20I,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,1,7,0,0,14.29,1,lbw,Raw JSON
+951353,2016-03-23,2016,T20I,Bangladesh,M Chinnaswamy Stadium,Bangalore,1,15,7,2,1,214.29,1,caught,Raw JSON
+1030221,2016-10-20,2016,ODI,New Zealand,Feroz Shah Kotla,Delhi,1,36,32,3,0,112.5,1,caught,Raw JSON
+1030225,2016-10-26,2016,ODI,New Zealand,JSCA International Stadium Complex,Ranchi,1,9,13,0,0,69.23,1,caught,Raw JSON
+1034819,2017-01-15,2017,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,40,37,3,1,108.11,0,Not Out,Raw JSON
+1034821,2017-01-19,2017,ODI,England,Barabati Stadium,Cuttack,1,19,9,2,1,211.11,0,Not Out,Raw JSON
+1034823,2017-01-22,2017,ODI,England,Eden Gardens,Kolkata,1,56,43,4,2,130.23,1,bowled,Raw JSON
+1034825,2017-01-26,2017,T20I,England,Green Park,Kanpur,1,9,12,0,0,75.0,1,caught,Raw JSON
+1034827,2017-01-29,2017,T20I,England,"Vidarbha Cricket Association Stadium, Jamtha",Nagpur,1,2,3,0,0,66.67,1,run out,Raw JSON
+1034829,2017-02-01,2017,T20I,England,M Chinnaswamy Stadium,Bangalore,1,11,4,0,1,275.0,1,run out,Raw JSON
+1022353,2017-06-04,2017,ODI,Pakistan,Edgbaston,Birmingham,1,20,6,0,3,333.33,0,Not Out,Raw JSON
+1022361,2017-06-08,2017,ODI,Sri Lanka,Kennington Oval,London,1,9,5,0,1,180.0,1,caught,Raw JSON
+1022375,2017-06-18,2017,ODI,Pakistan,Kennington Oval,London,1,76,43,4,6,176.74,0,Not Out,Raw JSON
+1098207,2017-06-25,2017,ODI,West Indies,"Queen's Park Oval, Port of Spain",Trinidad,1,4,5,0,0,80.0,1,caught,Raw JSON
+1098209,2017-07-02,2017,ODI,West Indies,"Sir Vivian Richards Stadium, North Sound",Antigua,1,20,21,1,1,95.24,1,bowled,Raw JSON
+1109602,2017-07-26,2017,Test,Sri Lanka,Galle International Stadium,,1,50,49,5,3,102.04,1,caught,Raw JSON
+1109603,2017-08-03,2017,Test,Sri Lanka,Sinhalese Sports Club Ground,Colombo,1,20,20,3,0,100.0,1,caught,Raw JSON
+1109604,2017-08-12,2017,Test,Sri Lanka,Pallekele International Cricket Stadium,,1,108,96,8,7,112.5,1,caught,Raw JSON
+1109606,2017-08-24,2017,ODI,Sri Lanka,Pallekele International Cricket Stadium,,1,0,3,0,0,0.0,1,stumped,Raw JSON
+1109608,2017-08-31,2017,ODI,Sri Lanka,"R.Premadasa Stadium, Khettarama",Colombo,1,19,18,1,1,105.56,1,caught,Raw JSON
+1119496,2017-09-17,2017,ODI,Australia,"MA Chidambaram Stadium, Chepauk",Chennai,1,83,66,5,5,125.76,1,caught,Raw JSON
+1119497,2017-09-21,2017,ODI,Australia,Eden Gardens,Kolkata,1,20,26,2,0,76.92,1,caught,Raw JSON
+1119498,2017-09-24,2017,ODI,Australia,Holkar Cricket Stadium,Indore,1,78,72,5,4,108.33,1,caught,Raw JSON
+1119499,2017-09-28,2017,ODI,Australia,M.Chinnaswamy Stadium,Bengaluru,1,41,40,1,3,102.5,1,caught,Raw JSON
+1119502,2017-10-10,2017,T20I,Australia,Barsapara Cricket Stadium,Guwahati,1,25,23,0,1,108.7,1,caught,Raw JSON
+1120090,2017-10-22,2017,ODI,New Zealand,Wankhede Stadium,Mumbai,1,16,16,1,1,100.0,1,caught,Raw JSON
+1120091,2017-10-25,2017,ODI,New Zealand,Maharashtra Cricket Association Stadium,Pune,1,30,31,2,1,96.77,1,caught,Raw JSON
+1120092,2017-10-29,2017,ODI,New Zealand,Green Park,Kanpur,1,8,6,1,0,133.33,1,caught,Raw JSON
+1120093,2017-11-01,2017,T20I,New Zealand,Arun Jaitley Stadium,Delhi,1,0,2,0,0,0.0,1,caught,Raw JSON
+1120094,2017-11-04,2017,T20I,New Zealand,Saurashtra Cricket Association Stadium,Rajkot,1,1,2,0,0,50.0,1,bowled,Raw JSON
+1120095,2017-11-07,2017,T20I,New Zealand,Greenfield International Stadium,Thiruvananthapuram,1,14,10,0,1,140.0,0,Not Out,Raw JSON
+1122726,2017-12-10,2017,ODI,Sri Lanka,Himachal Pradesh Cricket Association Stadium,Dharamsala,1,10,10,2,0,100.0,1,caught,Raw JSON
+1122727,2017-12-13,2017,ODI,Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali",Chandigarh,1,8,5,1,0,160.0,1,caught,Raw JSON
+1122730,2017-12-22,2017,T20I,Sri Lanka,Holkar Cricket Stadium,Indore,1,10,3,1,1,333.33,1,caught,Raw JSON
+1122731,2017-12-24,2017,T20I,Sri Lanka,Wankhede Stadium,Mumbai,1,4,4,0,0,100.0,1,caught,Raw JSON
+1122276,2018-01-05,2018,Test,South Africa,Newlands,Cape Town,1,93,95,14,1,97.89,1,caught,Raw JSON
+1122276,2018-01-05,2018,Test,South Africa,Newlands,Cape Town,2,1,5,0,0,20.0,1,caught,Raw JSON
+1122277,2018-01-13,2018,Test,South Africa,SuperSport Park,Centurion,1,15,45,2,0,33.33,1,run out,Raw JSON
+1122277,2018-01-13,2018,Test,South Africa,SuperSport Park,Centurion,2,6,12,0,0,50.0,1,caught,Raw JSON
+1122278,2018-01-24,2018,Test,South Africa,The Wanderers Stadium,Johannesburg,1,0,5,0,0,0.0,1,caught,Raw JSON
+1122278,2018-01-24,2018,Test,South Africa,The Wanderers Stadium,Johannesburg,2,4,11,0,0,36.36,1,caught and bowled,Raw JSON
+1122279,2018-02-01,2018,ODI,South Africa,Kingsmead,Durban,1,3,6,0,0,50.0,0,Not Out,Raw JSON
+1122281,2018-02-07,2018,ODI,South Africa,Newlands,Cape Town,1,14,15,0,1,93.33,1,caught,Raw JSON
+1122282,2018-02-10,2018,ODI,South Africa,The Wanderers Stadium,Johannesburg,1,9,13,1,0,69.23,1,caught,Raw JSON
+1122283,2018-02-13,2018,ODI,South Africa,St George's Park,Port Elizabeth,1,0,1,0,0,0.0,1,caught,Raw JSON
+1122285,2018-02-18,2018,T20I,South Africa,The Wanderers Stadium,Johannesburg,1,13,7,2,0,185.71,0,Not Out,Raw JSON
+1122287,2018-02-24,2018,T20I,South Africa,Newlands,Cape Town,1,21,17,0,1,123.53,1,caught,Raw JSON
+EXT_1133983,2018-06-14,2018,Test,Afghanistan,"M.Chinnaswamy Stadium, Bengaluru",Bengaluru,1,71,94,10,0,75.53,1,caught,Verified scorecard supplement
+1140992,2018-06-27,2018,T20I,Ireland,"The Village, Malahide",Dublin,1,6,1,0,1,600.0,0,Not Out,Raw JSON
+1140993,2018-06-29,2018,T20I,Ireland,"The Village, Malahide",Dublin,1,32,9,1,4,355.56,0,Not Out,Raw JSON
+1119544,2018-07-06,2018,T20I,England,Sophia Gardens,Cardiff,1,12,10,0,1,120.0,0,Not Out,Raw JSON
+1119545,2018-07-08,2018,T20I,England,County Ground,Bristol,1,33,14,4,2,235.71,0,Not Out,Raw JSON
+1119547,2018-07-14,2018,ODI,England,Lord's,London,1,21,22,1,0,95.45,1,caught,Raw JSON
+1119548,2018-07-17,2018,ODI,England,Headingley,Leeds,1,21,21,2,0,100.0,1,caught,Raw JSON
+1119549,2018-08-01,2018,Test,England,Edgbaston,Birmingham,1,22,52,3,0,42.31,1,lbw,Raw JSON
+1119549,2018-08-01,2018,Test,England,Edgbaston,Birmingham,2,31,61,4,0,50.82,1,caught,Raw JSON
+1119550,2018-08-09,2018,Test,England,Lord's,London,1,11,10,2,0,110.0,1,caught,Raw JSON
+1119550,2018-08-09,2018,Test,England,Lord's,London,2,26,43,5,0,60.47,1,lbw,Raw JSON
+1119551,2018-08-18,2018,Test,England,Trent Bridge,Nottingham,1,18,58,4,0,31.03,1,caught,Raw JSON
+1119551,2018-08-18,2018,Test,England,Trent Bridge,Nottingham,2,52,52,7,1,100.0,0,Not Out,Raw JSON
+1119552,2018-08-30,2018,Test,England,The Rose Bowl,Southampton,1,4,5,1,0,80.0,1,caught,Raw JSON
+1119552,2018-08-30,2018,Test,England,The Rose Bowl,Southampton,2,0,7,0,0,0.0,1,caught,Raw JSON
+1153694,2019-01-31,2019,ODI,New Zealand,Seddon Park,Hamilton,1,16,20,4,0,80.0,1,caught,Raw JSON
+1153695,2019-02-03,2019,ODI,New Zealand,Westpac Stadium,Wellington,1,45,22,2,5,204.55,1,caught,Raw JSON
+1153696,2019-02-06,2019,T20I,New Zealand,Westpac Stadium,Wellington,1,4,4,1,0,100.0,1,caught,Raw JSON
+1153698,2019-02-10,2019,T20I,New Zealand,Seddon Park,Hamilton,1,21,11,1,2,190.91,1,caught,Raw JSON
+1144490,2019-06-05,2019,ODI,South Africa,The Rose Bowl,Southampton,1,15,7,3,0,214.29,0,Not Out,Raw JSON
+1144496,2019-06-09,2019,ODI,Australia,Kennington Oval,London,1,48,27,4,3,177.78,1,caught,Raw JSON
+1144504,2019-06-16,2019,ODI,Pakistan,Old Trafford,Manchester,1,26,19,2,1,136.84,1,caught,Raw JSON
+EXT_2019_AFG_IND_ODI_28,2019-06-22,2019,ODI,Afghanistan,The Rose Bowl,Southampton,1,7,9,0,0,77.78,1,caught,Verified scorecard supplement
+1144516,2019-06-27,2019,ODI,West Indies,Old Trafford,Manchester,1,46,38,5,0,121.05,1,caught,Raw JSON
+1144520,2019-06-30,2019,ODI,England,Edgbaston,Birmingham,1,45,33,4,0,136.36,1,caught,Raw JSON
+1144522,2019-07-02,2019,ODI,Bangladesh,Edgbaston,Birmingham,1,0,2,0,0,0.0,1,caught,Raw JSON
+1144526,2019-07-06,2019,ODI,Sri Lanka,Headingley,Leeds,1,7,4,1,0,175.0,0,Not Out,Raw JSON
+1144528,2019-07-09,2019,ODI,New Zealand,Old Trafford,Manchester,1,32,62,2,0,51.61,1,caught,Raw JSON
+1187006,2019-09-22,2019,T20I,South Africa,M.Chinnaswamy Stadium,Bengaluru,1,14,18,1,0,77.78,1,caught,Raw JSON
+1223955,2020-11-27,2020,ODI,Australia,Sydney Cricket Ground,,1,90,76,7,4,118.42,1,caught,Raw JSON
+1223956,2020-11-29,2020,ODI,Australia,Sydney Cricket Ground,,1,28,31,1,1,90.32,1,caught,Raw JSON
+1223957,2020-12-02,2020,ODI,Australia,Manuka Oval,Canberra,1,92,76,7,1,121.05,0,Not Out,Raw JSON
+1223952,2020-12-04,2020,T20I,Australia,Manuka Oval,Canberra,1,16,15,0,1,106.67,1,caught,Raw JSON
+1223953,2020-12-06,2020,T20I,Australia,Sydney Cricket Ground,Sydney,1,42,22,3,2,190.91,0,Not Out,Raw JSON
+1223954,2020-12-08,2020,T20I,Australia,Sydney Cricket Ground,Sydney,1,20,13,1,2,153.85,1,caught,Raw JSON
+1243388,2021-03-12,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,1,19,21,1,1,90.48,1,caught,Raw JSON
+1243390,2021-03-16,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,1,17,15,0,2,113.33,1,caught,Raw JSON
+1243391,2021-03-18,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,1,11,8,0,1,137.5,1,caught,Raw JSON
+1243392,2021-03-20,2021,T20I,England,Narendra Modi Stadium,Ahmedabad,1,39,17,4,2,229.41,0,Not Out,Raw JSON
+1243393,2021-03-23,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,1,9,0,0,11.11,1,caught,Raw JSON
+1243394,2021-03-26,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,35,16,1,4,218.75,1,caught,Raw JSON
+1243395,2021-03-28,2021,ODI,England,Maharashtra Cricket Association Stadium,Pune,1,64,44,5,4,145.45,1,bowled,Raw JSON
+1262756,2021-07-20,2021,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,1,0,3,0,0,0.0,1,caught,Raw JSON
+1262757,2021-07-23,2021,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,1,19,17,3,0,111.76,1,lbw,Raw JSON
+1262758,2021-07-25,2021,T20I,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,1,10,12,0,0,83.33,1,caught,Raw JSON
+1273727,2021-10-24,2021,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,1,11,8,2,0,137.5,1,caught,Raw JSON
+1273739,2021-10-31,2021,T20I,New Zealand,Dubai International Cricket Stadium,Dubai,1,23,24,1,0,95.83,1,caught,Raw JSON
+EXT_2021_IND_AFG_T20I_33,2021-11-03,2021,T20I,Afghanistan,Sheikh Zayed Stadium,Abu Dhabi,1,35,13,4,2,269.23,0,Not Out,Verified scorecard supplement
+1278687,2022-06-09,2022,T20I,South Africa,"Arun Jaitley Stadium, Delhi",Delhi,1,31,12,2,3,258.33,0,Not Out,Raw JSON
+1278688,2022-06-12,2022,T20I,South Africa,"Barabati Stadium, Cuttack",Cuttack,1,9,12,1,0,75.0,1,bowled,Raw JSON
+1278689,2022-06-14,2022,T20I,South Africa,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,1,31,21,4,0,147.62,0,Not Out,Raw JSON
+1278690,2022-06-17,2022,T20I,South Africa,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,1,46,31,3,3,148.39,1,caught,Raw JSON
+1303307,2022-06-26,2022,T20I,Ireland,"The Village, Malahide, Dublin",Dublin,1,24,12,1,3,200.0,1,lbw,Raw JSON
+1303308,2022-06-28,2022,T20I,Ireland,"The Village, Malahide, Dublin",Dublin,1,13,9,2,0,144.44,0,Not Out,Raw JSON
+1276904,2022-07-07,2022,T20I,England,"The Rose Bowl, Southampton",Southampton,1,51,33,6,1,154.55,1,caught,Raw JSON
+1276905,2022-07-09,2022,T20I,England,"Edgbaston, Birmingham",Birmingham,1,12,15,1,0,80.0,1,caught,Raw JSON
+1276908,2022-07-14,2022,ODI,England,"Lord's, London",London,1,29,44,2,0,65.91,1,caught,Raw JSON
+1276909,2022-07-17,2022,ODI,England,"Old Trafford, Manchester",Manchester,1,71,55,10,0,129.09,1,caught,Raw JSON
+1317903,2022-07-29,2022,T20I,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,1,3,0,0,33.33,1,caught,Raw JSON
+1317904,2022-08-01,2022,T20I,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,1,31,31,1,2,100.0,1,caught,Raw JSON
+1317905,2022-08-02,2022,T20I,West Indies,"Warner Park, Basseterre, St Kitts",Basseterre,1,4,6,0,0,66.67,1,caught,Raw JSON
+1317907,2022-08-07,2022,T20I,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,28,16,2,2,175.0,0,Not Out,Raw JSON
+1327270,2022-08-28,2022,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,1,33,17,4,1,194.12,0,Not Out,Raw JSON
+1327276,2022-09-04,2022,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,1,0,2,0,0,0.0,1,caught,Raw JSON
+1327277,2022-09-06,2022,T20I,Sri Lanka,Dubai International Cricket Stadium,Dubai,1,17,13,0,1,130.77,1,caught,Raw JSON
+1327503,2022-09-20,2022,T20I,Australia,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",Chandigarh,1,71,30,7,5,236.67,0,Not Out,Raw JSON
+1327504,2022-09-23,2022,T20I,Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,1,9,9,1,0,100.0,1,caught,Raw JSON
+1327505,2022-09-25,2022,T20I,Australia,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,25,16,2,1,156.25,0,Not Out,Raw JSON
+1298150,2022-10-23,2022,T20I,Pakistan,Melbourne Cricket Ground,Melbourne,1,40,37,1,2,108.11,1,caught,Raw JSON
+1298164,2022-10-30,2022,T20I,South Africa,Perth Stadium,Perth,1,2,3,0,0,66.67,1,caught,Raw JSON
+1298169,2022-11-02,2022,T20I,Bangladesh,Adelaide Oval,Adelaide,1,5,6,0,0,83.33,1,caught,Raw JSON
+1298176,2022-11-06,2022,T20I,Zimbabwe,Melbourne Cricket Ground,Melbourne,1,18,18,2,0,100.0,1,caught,Raw JSON
+1298178,2022-11-10,2022,T20I,England,Adelaide Oval,Adelaide,1,63,33,4,5,190.91,1,hit wicket,Raw JSON
+1322276,2022-11-20,2022,T20I,New Zealand,"Bay Oval, Mount Maunganui",Mount Maunganui,1,13,13,0,0,100.0,1,caught,Raw JSON
+1322277,2022-11-22,2022,T20I,New Zealand,"McLean Park, Napier",Napier,1,30,18,3,1,166.67,0,Not Out,Raw JSON
+1348640,2023-01-03,2023,T20I,Sri Lanka,"Wankhede Stadium, Mumbai",Mumbai,1,29,27,4,0,107.41,1,caught,Raw JSON
+1348641,2023-01-05,2023,T20I,Sri Lanka,"Maharashtra Cricket Association Stadium, Pune",Pune,1,12,12,1,1,100.0,1,caught,Raw JSON
+1348642,2023-01-07,2023,T20I,Sri Lanka,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,1,4,4,0,0,100.0,1,caught,Raw JSON
+1348643,2023-01-10,2023,ODI,Sri Lanka,"Barsapara Cricket Stadium, Guwahati",Guwahati,1,14,12,0,1,116.67,1,caught,Raw JSON
+1348644,2023-01-12,2023,ODI,Sri Lanka,"Eden Gardens, Kolkata",Kolkata,1,36,53,4,0,67.92,1,caught,Raw JSON
+1348646,2023-01-18,2023,ODI,New Zealand,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,28,38,3,0,73.68,1,bowled,Raw JSON
+1348648,2023-01-24,2023,ODI,New Zealand,"Holkar Cricket Stadium, Indore",Indore,1,54,38,3,3,142.11,1,caught,Raw JSON
+1348649,2023-01-27,2023,T20I,New Zealand,"JSCA International Stadium Complex, Ranchi",Ranchi,1,21,20,1,1,105.0,1,caught and bowled,Raw JSON
+1348650,2023-01-29,2023,T20I,New Zealand,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",Lucknow,1,15,20,1,0,75.0,0,Not Out,Raw JSON
+1348651,2023-02-01,2023,T20I,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,30,17,4,1,176.47,1,caught,Raw JSON
+1348656,2023-03-17,2023,ODI,Australia,"Wankhede Stadium, Mumbai",Mumbai,1,25,31,3,1,80.65,1,caught,Raw JSON
+1348657,2023-03-19,2023,ODI,Australia,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,1,1,3,0,0,33.33,1,caught,Raw JSON
+1348658,2023-03-22,2023,ODI,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,40,40,3,1,100.0,1,caught,Raw JSON
+1381214,2023-07-27,2023,ODI,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,5,7,0,0,71.43,0,Not Out,Raw JSON
+1381215,2023-07-29,2023,ODI,West Indies,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,7,14,0,0,50.0,1,caught,Raw JSON
+1381216,2023-08-01,2023,ODI,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,70,52,4,5,134.62,0,Not Out,Raw JSON
+1381217,2023-08-03,2023,T20I,West Indies,"Brian Lara Stadium, Tarouba, Trinidad",Tarouba,1,19,19,3,0,100.0,1,bowled,Raw JSON
+1381218,2023-08-06,2023,T20I,West Indies,"Providence Stadium, Guyana",Providence,1,24,18,0,2,133.33,1,bowled,Raw JSON
+1381219,2023-08-08,2023,T20I,West Indies,"Providence Stadium, Guyana",Providence,1,20,15,1,1,133.33,0,Not Out,Raw JSON
+1381221,2023-08-13,2023,T20I,West Indies,"Central Broward Regional Park Stadium Turf Ground, Lauderhill",Lauderhill,1,14,18,0,1,77.78,1,caught,Raw JSON
+1388394,2023-09-02,2023,ODI,Pakistan,Pallekele International Cricket Stadium,Kandy,1,87,90,7,1,96.67,1,caught,Raw JSON
+1388407,2023-09-12,2023,ODI,Sri Lanka,"R Premadasa Stadium, Colombo",Colombo,1,5,18,0,0,27.78,1,caught,Raw JSON
+1384396,2023-10-08,2023,ODI,Australia,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,11,8,0,1,137.5,0,Not Out,Raw JSON
+1415719,2024-06-09,2024,T20I,Pakistan,"Nassau County International Cricket Stadium, New York",New York,1,7,12,1,0,58.33,1,caught,Raw JSON
+EXT_2024_AFG_IND_T20I_43,2024-06-20,2024,T20I,Afghanistan,Kensington Oval,Bridgetown,1,32,24,3,2,133.33,1,caught,Verified scorecard supplement
+1415747,2024-06-22,2024,T20I,Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",North Sound,1,50,27,4,3,185.19,0,Not Out,Raw JSON
+1415751,2024-06-24,2024,T20I,Australia,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",Gros Islet,1,27,17,1,2,158.82,0,Not Out,Raw JSON
+1415754,2024-06-27,2024,T20I,England,"Providence Stadium, Guyana",Providence,1,23,13,1,2,176.92,1,caught,Raw JSON
+1415755,2024-06-29,2024,T20I,South Africa,"Kensington Oval, Bridgetown, Barbados",Bridgetown,1,5,2,1,0,250.0,0,Not Out,Raw JSON
+1442987,2024-07-27,2024,T20I,Sri Lanka,Pallekele International Cricket Stadium,Kandy,1,9,10,1,0,90.0,1,bowled,Raw JSON
+1442988,2024-07-28,2024,T20I,Sri Lanka,Pallekele International Cricket Stadium,Kandy,1,22,9,3,1,244.44,0,Not Out,Raw JSON
+1439893,2024-10-06,2024,T20I,Bangladesh,"Shrimant Madhavrao Scindia Cricket Stadium, Gwalior",Gwalior,1,39,16,5,2,243.75,0,Not Out,Raw JSON
+1439894,2024-10-09,2024,T20I,Bangladesh,"Arun Jaitley Stadium, Delhi",Delhi,1,32,19,2,2,168.42,1,caught,Raw JSON
+1439895,2024-10-12,2024,T20I,Bangladesh,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",Hyderabad,1,47,18,4,4,261.11,1,caught,Raw JSON
+1449301,2024-11-08,2024,T20I,South Africa,"Kingsmead, Durban",Durban,1,2,6,0,0,33.33,1,caught,Raw JSON
+1449302,2024-11-10,2024,T20I,South Africa,"St George's Park, Gqeberha",Gqeberha,1,39,45,4,1,86.67,0,Not Out,Raw JSON
+1449303,2024-11-13,2024,T20I,South Africa,"SuperSport Park, Centurion",Centurion,1,18,16,3,0,112.5,1,lbw,Raw JSON
+1439899,2025-01-22,2025,T20I,England,"Eden Gardens, Kolkata",Kolkata,1,3,4,0,0,75.0,0,Not Out,Raw JSON
+1439900,2025-01-25,2025,T20I,England,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,7,6,1,0,116.67,1,caught,Raw JSON
+1439901,2025-01-28,2025,T20I,England,"Saurashtra Cricket Association Stadium, Rajkot",Rajkot,1,40,35,1,2,114.29,1,caught,Raw JSON
+1439902,2025-01-31,2025,T20I,England,"Maharashtra Cricket Association Stadium, Pune",Pune,1,53,30,4,4,176.67,1,caught,Raw JSON
+1439903,2025-02-02,2025,T20I,England,"Wankhede Stadium, Mumbai",Mumbai,1,9,6,0,1,150.0,1,caught,Raw JSON
+1439904,2025-02-06,2025,ODI,England,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,1,9,6,0,1,150.0,0,Not Out,Raw JSON
+1439905,2025-02-09,2025,ODI,England,"Barabati Stadium, Cuttack",Cuttack,1,10,6,2,0,166.67,1,caught,Raw JSON
+1439906,2025-02-12,2025,ODI,England,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,17,9,0,2,188.89,1,bowled,Raw JSON
+1466418,2025-02-23,2025,ODI,Pakistan,Dubai International Cricket Stadium,Dubai,1,8,6,1,0,133.33,1,caught,Raw JSON
+1466425,2025-03-02,2025,ODI,New Zealand,Dubai International Cricket Stadium,Dubai,1,45,45,4,2,100.0,1,caught,Raw JSON
+1466426,2025-03-04,2025,ODI,Australia,Dubai International Cricket Stadium,Dubai,1,28,24,1,3,116.67,1,caught,Raw JSON
+1466428,2025-03-09,2025,ODI,New Zealand,Dubai International Cricket Stadium,Dubai,1,18,18,1,1,100.0,1,caught and bowled,Raw JSON
+1496931,2025-09-19,2025,T20I,Oman,"Zayed Cricket Stadium, Abu Dhabi",Abu Dhabi,1,1,1,0,0,100.0,0,Not Out,Raw JSON
+1496933,2025-09-21,2025,T20I,Pakistan,Dubai International Cricket Stadium,Dubai,1,7,7,1,0,100.0,0,Not Out,Raw JSON
+1496935,2025-09-24,2025,T20I,Bangladesh,Dubai International Cricket Stadium,Dubai,1,38,29,4,1,131.03,1,caught,Raw JSON
+1496937,2025-09-26,2025,T20I,Sri Lanka,Dubai International Cricket Stadium,Dubai,1,2,3,0,0,66.67,1,caught and bowled,Raw JSON
+1479576,2025-12-09,2025,T20I,South Africa,"Barabati Stadium, Cuttack",Cuttack,1,59,28,6,4,210.71,0,Not Out,Raw JSON
+1479577,2025-12-11,2025,T20I,South Africa,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",New Chandigarh,1,20,23,0,1,86.96,1,caught,Raw JSON
+1479580,2025-12-19,2025,T20I,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,63,25,5,5,252.0,1,caught,Raw JSON
+1490234,2026-01-21,2026,T20I,New Zealand,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",Nagpur,1,25,16,3,1,156.25,1,caught,Raw JSON
+1490237,2026-01-28,2026,T20I,New Zealand,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",Visakhapatnam,1,2,5,0,0,40.0,1,caught,Raw JSON
+1490238,2026-01-31,2026,T20I,New Zealand,"Greenfield International Stadium, Thiruvananthapuram",Thiruvananthapuram,1,42,17,1,4,247.06,1,caught,Raw JSON
+1512721,2026-02-07,2026,T20I,United States of America,"Wankhede Stadium, Mumbai",Mumbai,1,5,6,1,0,83.33,1,caught,Raw JSON
+1512736,2026-02-12,2026,T20I,Namibia,"Arun Jaitley Stadium, Delhi",Delhi,1,52,28,4,4,185.71,1,caught,Raw JSON
+1512745,2026-02-15,2026,T20I,Pakistan,"R Premadasa Stadium, Colombo",Colombo,1,0,1,0,0,0.0,1,caught,Raw JSON
+1512754,2026-02-18,2026,T20I,Netherlands,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,30,21,0,3,142.86,1,caught,Raw JSON
+1512761,2026-02-22,2026,T20I,South Africa,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,18,17,0,1,105.88,1,caught,Raw JSON
+1512766,2026-02-26,2026,T20I,Zimbabwe,"MA Chidambaram Stadium, Chepauk, Chennai",Chennai,1,50,23,2,4,217.39,0,Not Out,Raw JSON
+1512770,2026-03-01,2026,T20I,West Indies,"Eden Gardens, Kolkata",Kolkata,1,17,14,2,0,121.43,1,caught,Raw JSON
+1512772,2026-03-05,2026,T20I,England,"Wankhede Stadium, Mumbai",Mumbai,1,27,12,3,2,225.0,1,run out,Raw JSON
+1512773,2026-03-08,2026,T20I,New Zealand,"Narendra Modi Stadium, Ahmedabad",Ahmedabad,1,18,13,1,1,138.46,1,caught,Raw JSON
